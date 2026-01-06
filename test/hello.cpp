@@ -1,7 +1,9 @@
 #include <iostream>
 
 using namespace std;
+using std::cout;
+using std::endl;
 
 int main() {
-    cout << "Hello, Mehul Kumar Singh";
+    cout << "Hello, Mehul Kumar Singh"<<endl;
 }
